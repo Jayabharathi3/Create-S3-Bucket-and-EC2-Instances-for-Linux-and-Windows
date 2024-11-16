@@ -60,8 +60,6 @@ Connect to the Windows instance using RDP.</br>
 
 ![linux con 3](https://github.com/user-attachments/assets/93a93641-42da-4187-8f0b-60788e7f1bb2)
 
-![linux con](https://github.com/user-attachments/assets/12a68cf4-a6b8-4668-aff4-efd332f40ff7)
-
 ![linux con2](https://github.com/user-attachments/assets/e01d9ca7-6a6e-44b8-a9e6-3ba78dc610b0)
 
 ![linux con1](https://github.com/user-attachments/assets/677a3015-ff14-450d-8e5d-8bde3136da73)
