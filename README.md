@@ -41,9 +41,9 @@ Connect to the Windows instance using RDP.</br>
 ### REG NUMBER : JAYABHARATHI S
 ### NAME : 212222100013
 
-## OUTPUT
+# OUTPUT
 
-### S3 Bucket
+## S3 Bucket
 
 ![image](https://github.com/user-attachments/assets/1b2a0fcd-5feb-4461-945c-0cc3093f1c09)
 
@@ -54,8 +54,26 @@ Connect to the Windows instance using RDP.</br>
 ![s3 hml](https://github.com/user-attachments/assets/9f2204c1-398c-4356-ae7b-703b22586835)
 
 
-### EC2 Instance
+## EC2 Instance (LINUX)
 
+![lin win](https://github.com/user-attachments/assets/83dcf4f4-ff8c-4cb1-ba22-2640b4a022b8)
+
+![linux con 3](https://github.com/user-attachments/assets/93a93641-42da-4187-8f0b-60788e7f1bb2)
+
+![linux con](https://github.com/user-attachments/assets/12a68cf4-a6b8-4668-aff4-efd332f40ff7)
+
+![linux con2](https://github.com/user-attachments/assets/e01d9ca7-6a6e-44b8-a9e6-3ba78dc610b0)
+
+![linux con1](https://github.com/user-attachments/assets/677a3015-ff14-450d-8e5d-8bde3136da73)
+
+
+## EC2 INSTANCE (WINDOWS)
+
+![image](https://github.com/user-attachments/assets/5b1e832a-b09c-431a-a100-f1c99007b47d)
+
+![image](https://github.com/user-attachments/assets/9a577013-4284-4024-a03b-2681c2fec056)
+
+![image](https://github.com/user-attachments/assets/12ae53a3-8ec6-43a5-ab43-ba7e6facbe9e)
 
 
 ## RESULT
